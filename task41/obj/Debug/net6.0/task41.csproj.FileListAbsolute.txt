@@ -1,0 +1,15 @@
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+C:\gb\homework6\task41\bin\Debug\net6.0\task41.exe
+C:\gb\homework6\task41\bin\Debug\net6.0\task41.deps.json
+C:\gb\homework6\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+C:\gb\homework6\task41\bin\Debug\net6.0\task41.dll
+C:\gb\homework6\task41\bin\Debug\net6.0\task41.pdb
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.dll
+C:\gb\homework6\task41\obj\Debug\net6.0\refint\task41.dll
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.pdb
+C:\gb\homework6\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+C:\gb\homework6\task41\obj\Debug\net6.0\ref\task41.dll
