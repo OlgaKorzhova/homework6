@@ -46,4 +46,4 @@ int number = getUserData("Введите количество чисел");
 int [] array = generateArray(number, -100, 100);
 printArray(array);
 int getCountNumbers = getCount (array);
-Console.WriteLine($"Колиество четных чисел {getCountNumbers}");
+Console.WriteLine($"Колиество чисел больше нуля: {getCountNumbers}");
